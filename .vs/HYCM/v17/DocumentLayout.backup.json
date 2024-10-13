@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB14A35-BA00-4E95-A690-34BF638F7282}|HYCM.Calculadora.UnitTest.AppxUnit\\HYCM.Calculadora.UnitTest.AppxUnit.csproj|c:\\users\\mineducyt\\desktop\\guia1(pruebasunitarias )\\hycm\\hycm.calculadora.unittest.appxunit\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBB14A35-BA00-4E95-A690-34BF638F7282}|HYCM.Calculadora.UnitTest.AppxUnit\\HYCM.Calculadora.UnitTest.AppxUnit.csproj|solutionrelative:hycm.calculadora.unittest.appxunit\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136FCB1E-669C-41CF-B23F-221BA2CEECD5}|HYCM.CalculadoraUnitTestMSTest\\HYCM.CalculadoraUnitTestMSTest.csproj|c:\\users\\mineducyt\\desktop\\guia1(pruebasunitarias )\\hycm\\hycm.calculadoraunittestmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136FCB1E-669C-41CF-B23F-221BA2CEECD5}|HYCM.CalculadoraUnitTestMSTest\\HYCM.CalculadoraUnitTestMSTest.csproj|solutionrelative:hycm.calculadoraunittestmstest\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D304AED-E71A-4A0E-ADE4-FF63D260503F}|HYCM.Calculadora\\HYCM.Calculadora.csproj|c:\\users\\mineducyt\\desktop\\guia1(pruebasunitarias )\\hycm\\hycm.calculadora\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D304AED-E71A-4A0E-ADE4-FF63D260503F}|HYCM.Calculadora\\HYCM.Calculadora.csproj|solutionrelative:hycm.calculadora\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.Calculadora.UnitTest.AppxUnit\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "HYCM.Calculadora.UnitTest.AppxUnit\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.Calculadora.UnitTest.AppxUnit\\CalculatorTest.cs",
+              "RelativeToolTip": "HYCM.Calculadora.UnitTest.AppxUnit\\CalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T23:42:17.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.CalculadoraUnitTestMSTest\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "HYCM.CalculadoraUnitTestMSTest\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.CalculadoraUnitTestMSTest\\CalculatorTests.cs",
+              "RelativeToolTip": "HYCM.CalculadoraUnitTestMSTest\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:34:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.Calculadora\\Calculator.cs",
+              "RelativeDocumentMoniker": "HYCM.Calculadora\\Calculator.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\Guia1(PruebasUnitarias )\\HYCM\\HYCM.Calculadora\\Calculator.cs",
+              "RelativeToolTip": "HYCM.Calculadora\\Calculator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:07:41.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

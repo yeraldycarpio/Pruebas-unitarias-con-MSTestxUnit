@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\bin\Debug\net6.0\HYCM.Calculadora.deps.json
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\bin\Debug\net6.0\HYCM.Calculadora.dll
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\bin\Debug\net6.0\HYCM.Calculadora.pdb
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.dll
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\refint\HYCM.Calculadora.dll
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\HYCM.Calculadora.pdb
+C:\Users\MINEDUCYT\Desktop\Guia1(PruebasUnitarias )\HYCM\HYCM.Calculadora\obj\Debug\net6.0\ref\HYCM.Calculadora.dll
